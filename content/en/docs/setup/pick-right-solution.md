@@ -120,6 +120,7 @@ few commands. These solutions are actively developed and have active community s
 * [Oracle Container Engine for K8s](https://docs.us-phoenix-1.oraclecloud.com/Content/ContEng/Concepts/contengprerequisites.htm)
 * [Pivotal Container Service](https://pivotal.io/platform/pivotal-container-service)
 * [Rancher 2.0](https://rancher.com/docs/rancher/v2.x/en/)
+* [Supergiant](https://supergiant.io)
 * [Stackpoint.io](/docs/setup/turnkey/stackpoint/)
 * [Tectonic by CoreOS](https://coreos.com/tectonic)
 * [VMware Cloud PKS](https://cloud.vmware.com/vmware-cloud-pks)
